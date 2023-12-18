@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/one-line-a-day/static/css/main.f855e6bc.css",
+    "main.js": "/one-line-a-day/static/js/main.4d3e3e52.js",
+    "static/js/787.44142d4a.chunk.js": "/one-line-a-day/static/js/787.44142d4a.chunk.js",
+    "static/media/logo.svg": "/one-line-a-day/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/one-line-a-day/index.html",
+    "main.f855e6bc.css.map": "/one-line-a-day/static/css/main.f855e6bc.css.map",
+    "main.4d3e3e52.js.map": "/one-line-a-day/static/js/main.4d3e3e52.js.map",
+    "787.44142d4a.chunk.js.map": "/one-line-a-day/static/js/787.44142d4a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.4d3e3e52.js"
+  ]
+}
